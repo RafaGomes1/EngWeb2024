@@ -4,10 +4,13 @@ UC do 3º Ano de Engenharia Informática da Universidade do Minho
 
 ## Aluno
 
-**Nome:** Rafael Gomes
+- **Nome:** Rafael Gomes
 
-**Número:** A96208
+- **Número:** A96208
 
-**Email:** a96208@alunos.uminho.pt
+- **Email:** a96208@alunos.uminho.pt
 
-**Fotografia:** ![Texto](rafa.png)
+- **Fotografia:** 
+
+    ![Fotografia do aluno](rafa.png)
+
