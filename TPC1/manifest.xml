@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC1</title>
+        <date>2024-02-05</date>
+        <author>
+            <id>a96208</id>
+            <nome>Rafael Gomes</nome>
+        </author>
+        <uc>
+            <sigla>EW2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Criar um indice de todas as ruas de Braga fornecidas pelo dataset</p>
+        <p>No indice existe a possibilidade de escolher uma rua, após selecionada a rua será reencaminhda para a respetiva</p>
+        <p>Na página de cada rua existe um botão para voltar atrás</p>
+    </resumo>
+    <resultados>
+        <resultado>Indice simples e objetivo</resultado>
+        <resultado>Informação completa sobre cada rua</resultado>
+    </resultados>
+</doc>
