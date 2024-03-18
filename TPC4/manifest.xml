@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC4</title>
+        <date>2024-03-15</date>
+        <author>
+            <id>a96208</id>
+            <nome>Rafael Gomes</nome>
+        </author>
+        <uc>
+            <sigla>EW2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Montar a API de dados com o json-server a partir do dataset de compositores</p>
+        <p>Criar uma aplicação Web através de operações CRUD sobre compositores e periodos musicais</p>
+    </resumo>
+    <resultados>
+        <resultado>Foi possível visualizar as páginas pretendidas e inserir pelo menos 5 compositores</resultado>
+    </resultados>
+</doc>
